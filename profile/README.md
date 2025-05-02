@@ -1,2 +1,2 @@
 Hello 👋
-🙋‍♀️ hello@atlastek.dev
+🙋‍♀️ hello@goosey.org
